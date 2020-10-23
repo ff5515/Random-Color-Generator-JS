@@ -9,7 +9,6 @@ function getColor() {
     let clrBtn = document.getElementById('clrBtn');
     let addBtn = document.getElementById('addBtn');
     let rmvBtn = document.getElementById('rmvBtn');             //rmv - remove
-    let rmvFavBtn = document.getElementById('rmvFavBtn');
     let favList = document.getElementById('favList');           //fav - favorite
 
 
